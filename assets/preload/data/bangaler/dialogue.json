@@ -1,0 +1,156 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "twiker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*breaks into cmbs house*"
+		},
+		{
+			"sound": "ass",
+			"speed": 0.05,
+			"portrait": "twiker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im coming for you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cmb",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "lets play clash royale"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "twiker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmmmmm"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "twiker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i hear him"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sbini",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cmb"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "sbini",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "someone wants to kill yo lol"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "twiker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "1"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "twiker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "2"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "twiker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "3"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cmb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dont care u ugly ahh blue retard"
+		},
+		{
+			"sound": "",
+			"speed": 0.3,
+			"portrait": "twiker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "d e a t h  i s  c o m i n g  m o t h e r f-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cmb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cmb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "u came here just because i posted the message where u said that u like link(ylow)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cmb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro get a f life"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cmb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "twiker leave"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "twiker",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets fight toad bastard"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cmb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle because i win if i fight stupid idiot"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cmb",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im doin yo mom bi-"
+		}
+	]
+}

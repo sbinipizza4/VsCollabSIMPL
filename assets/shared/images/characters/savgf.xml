@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="savgf.png">
+<SubTexture name="savgf idle0000" x="0" y="0" width="566" height="938" frameX="-149" frameY="-21" frameWidth="720" frameHeight="960" />
+</TextureAtlas>

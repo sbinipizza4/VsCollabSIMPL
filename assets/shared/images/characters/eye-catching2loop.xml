@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eye-catching2loop.png">
+<SubTexture name="eye-catching2loop idle0000" x="1178" y="0" width="524" height="792" frameX="-240" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching2loop idle0001" x="0" y="0" width="552" height="800" frameX="-220" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching2loop idle0002" x="552" y="0" width="626" height="800" frameX="-202" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching2loop idle0003" x="0" y="800" width="725" height="769" frameX="-160" frameY="-31" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching2loop idle0004" x="725" y="800" width="829" height="679" frameX="-124" frameY="-120" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching2loop idle0005" x="1702" y="0" width="811" height="553" frameX="-135" frameY="-233" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching2loop idle0006" x="1702" y="553" width="761" height="496" frameX="-159" frameY="-304" frameWidth="1066" frameHeight="800" />
+</TextureAtlas>

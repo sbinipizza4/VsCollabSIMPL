@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eye-catching3.png">
+<SubTexture name="eye-catching3 idle0000" x="0" y="0" width="1024" height="765" frameX="-34" frameY="-23" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching3 down0000" x="0" y="2272" width="1020" height="673" frameX="-37" frameY="-123" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching3 down0001" x="1020" y="2272" width="1020" height="638" frameX="-37" frameY="-158" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching3 left0000" x="1024" y="0" width="988" height="763" frameX="-66" frameY="-37" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching3 left0001" x="2012" y="0" width="1033" height="759" frameX="-33" frameY="-41" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching3 up0000" x="0" y="765" width="1025" height="761" frameX="-40" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching3 up0001" x="2012" y="759" width="1020" height="735" frameX="-46" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching3 right0000" x="0" y="1526" width="1066" height="746" frameX="0" frameY="-42" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching3 right0001" x="1066" y="1526" width="1066" height="742" frameX="0" frameY="-46" frameWidth="1066" frameHeight="800" />
+</TextureAtlas>

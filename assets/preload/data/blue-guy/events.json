@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 1.7,
+		"stage": "sortofplace",
+		"player1": "bf",
+		"player2": "sbini",
+		"player3": null,
+		"events": [
+			[
+				100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sbiniomg"
+					]
+				]
+			],
+			[
+				5500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sbini"
+					]
+				]
+			],
+			[
+				149228.301886792,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "blue guy"
+	}
+}

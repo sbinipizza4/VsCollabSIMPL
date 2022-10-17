@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Note Swap",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"spirit"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"twikerplayz"
+					]
+				]
+			],
+			[
+				106350,
+				[
+					[
+						"Cam Boom Speed",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				106500,
+				[
+					[
+						"Play Animation",
+						"gf",
+						"singLEFT"
+					]
+				]
+			],
+			[
+				106800,
+				[
+					[
+						"Play Animation",
+						"gf",
+						"singDOWN"
+					]
+				]
+			],
+			[
+				107250,
+				[
+					[
+						"Play Animation",
+						"gf",
+						"singUP"
+					]
+				]
+			],
+			[
+				107400,
+				[
+					[
+						"Play Animation",
+						"gf",
+						"singLEFT"
+					]
+				]
+			],
+			[
+				107550,
+				[
+					[
+						"Play Animation",
+						"gf",
+						"singRIGHT"
+					]
+				]
+			]
+		]
+	}
+}

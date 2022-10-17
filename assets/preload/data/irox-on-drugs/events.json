@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				19500,
+				[
+					[
+						"Screen Shake",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				60300,
+				[
+					[
+						"Change Character",
+						"dad",
+						"iroxxp"
+					]
+				]
+			]
+		]
+	}
+}

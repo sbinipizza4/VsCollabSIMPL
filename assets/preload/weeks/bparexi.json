@@ -1,0 +1,41 @@
+{
+	"storyName": "parexi",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "bparexi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"forest",
+			"parexi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"leaf",
+			"parexi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "parexi",
+	"hiddenUntilUnlocked": false
+}

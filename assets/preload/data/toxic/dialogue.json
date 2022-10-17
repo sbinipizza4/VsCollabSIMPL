@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "beep bop bap pop bap",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "gf i would like you to su-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angry",
+			"text": "what the heck!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sbini"
+		},
+		{
+			"expression": "talk",
+			"text": "bro who r u",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "i mean",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "bep boop skoop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop skeep bop de be bai ooo beh bai",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "hey blue man",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "What do you want from us",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "i want your lunch money",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sbini"
+		},
+		{
+			"expression": "talk",
+			"text": "fup you",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Please can you let me talk bf",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "pissed",
+			"text": "yes mam",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I want a rap battle",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sbini"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok, what music do you want",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "pp mu-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "ItzSbiniPlayz ft IROXWZT - Toxic",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sbini"
+		},
+		{
+			"expression": "talk",
+			"text": "Ok blue guy",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

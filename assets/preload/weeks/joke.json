@@ -1,0 +1,32 @@
+{
+	"storyName": "joke songs",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "joke",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"cmb x parexi shipping cute",
+			"parexi",
+			[
+				255,
+				255,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "joke lolololol"
+}

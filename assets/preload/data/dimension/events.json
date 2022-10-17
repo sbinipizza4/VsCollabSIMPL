@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"wtf",
+						"dad"
+					]
+				]
+			],
+			[
+				66.6666666666667,
+				[
+					[
+						"Play Animation",
+						"hi",
+						"dad"
+					]
+				]
+			],
+			[
+				49933.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"savanabit"
+					]
+				]
+			],
+			[
+				79400,
+				[
+					[
+						"Dadbattle Spotlight",
+						"1",
+						"2"
+					]
+				]
+			],
+			[
+				83800,
+				[
+					[
+						"Dadbattle Spotlight",
+						"0",
+						"2"
+					]
+				]
+			],
+			[
+				83933.3333333333,
+				[
+					[
+						"Dadbattle Spotlight",
+						"1",
+						"3"
+					]
+				]
+			],
+			[
+				87400,
+				[
+					[
+						"Dadbattle Spotlight",
+						"1",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}

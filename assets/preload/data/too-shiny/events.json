@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "stupidplace",
+		"player1": "3d-bf",
+		"player2": "sbiniomg",
+		"player3": null,
+		"events": [
+			[
+				45473.6842105263,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sbini"
+					]
+				]
+			],
+			[
+				85894.7368421052,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sbiniomg"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Too-Shiny"
+	}
+}

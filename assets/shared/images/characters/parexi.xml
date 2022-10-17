@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="parexi.png">
+<SubTexture name="parexi idle0000" x="834" y="0" width="377" height="706" frameX="-42" frameY="-21" frameWidth="470" frameHeight="730" />
+<SubTexture name="parexi right0000" x="1211" y="0" width="443" height="705" frameX="-5" frameY="-25" frameWidth="470" frameHeight="730" />
+<SubTexture name="parexi right0001" x="395" y="0" width="439" height="711" frameX="-27" frameY="-19" frameWidth="470" frameHeight="730" />
+<SubTexture name="parexi down0000" x="1654" y="0" width="466" height="593" frameX="0" frameY="-134" frameWidth="470" frameHeight="730" />
+<SubTexture name="parexi down0001" x="0" y="1408" width="467" height="563" frameX="0" frameY="-164" frameWidth="470" frameHeight="730" />
+<SubTexture name="parexi left0000" x="417" y="713" width="399" height="685" frameX="-34" frameY="-44" frameWidth="470" frameHeight="730" />
+<SubTexture name="parexi left0001" x="816" y="713" width="401" height="680" frameX="-17" frameY="-50" frameWidth="470" frameHeight="730" />
+<SubTexture name="parexi up0000" x="0" y="713" width="417" height="695" frameX="-42" frameY="-20" frameWidth="470" frameHeight="730" />
+<SubTexture name="parexi up0001" x="0" y="0" width="395" height="713" frameX="-51" frameY="-2" frameWidth="470" frameHeight="730" />
+</TextureAtlas>

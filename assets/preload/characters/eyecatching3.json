@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-81,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "eye-catching3 left"
+		},
+		{
+			"offsets": [
+				-81,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "eye-catching3 down"
+		},
+		{
+			"offsets": [
+				-81,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "eye-catching3 up"
+		},
+		{
+			"offsets": [
+				-81,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "eye-catching3 right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "eye-catching3 idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "finalidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eye-catching3",
+	"position": [
+		200,
+		0
+	],
+	"healthicon": "nothing",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-80,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

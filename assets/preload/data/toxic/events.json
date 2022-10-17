@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				23400,
+				[
+					[
+						"Play Animation",
+						"bf",
+						"hey"
+					]
+				]
+			],
+			[
+				31800,
+				[
+					[
+						"Hey!",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				32250,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				32400,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				53400,
+				[
+					[
+						"Screen Shake",
+						"3, 1",
+						""
+					]
+				]
+			],
+			[
+				75300,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sbiniomg"
+					]
+				]
+			],
+			[
+				78450,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				79500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sbini"
+					]
+				]
+			]
+		]
+	}
+}

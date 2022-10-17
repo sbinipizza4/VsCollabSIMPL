@@ -1,0 +1,189 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "sortofplace",
+		"player1": "rbf",
+		"player2": "savanabit",
+		"player3": null,
+		"events": [
+			[
+				66500,
+				[
+					[
+						"Change Character",
+						"gf",
+						"sbini"
+					]
+				]
+			],
+			[
+				66600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				67300,
+				[
+					[
+						"Change Character",
+						"gf",
+						"iroxwzt"
+					]
+				]
+			],
+			[
+				67600,
+				[
+					[
+						"Change Character",
+						"gf",
+						"iroxwzt-cool"
+					]
+				]
+			],
+			[
+				67700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				67900,
+				[
+					[
+						"Change Character",
+						"gf",
+						"cmb"
+					]
+				]
+			],
+			[
+				68100,
+				[
+					[
+						"Change Character",
+						"gf",
+						"master"
+					]
+				]
+			],
+			[
+				68400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				68700,
+				[
+					[
+						"Change Character",
+						"gf",
+						"parexi"
+					]
+				]
+			],
+			[
+				68900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				69300,
+				[
+					[
+						"Change Character",
+						"gf",
+						"linkylow"
+					]
+				]
+			],
+			[
+				69500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				69900,
+				[
+					[
+						"Change Character",
+						"gf",
+						"twikerplayz"
+					]
+				]
+			],
+			[
+				70200,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"gf"
+					]
+				]
+			],
+			[
+				71000,
+				[
+					[
+						"Play Animation",
+						"pganim",
+						"gf"
+					]
+				]
+			],
+			[
+				71800,
+				[
+					[
+						"Play Animation",
+						"singUP-alt",
+						"gf"
+					]
+				]
+			],
+			[
+				72300,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savanabit"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "poop"
+	}
+}

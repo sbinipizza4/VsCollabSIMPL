@@ -1,0 +1,50 @@
+{
+	"storyName": "what is that",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "idk",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"suformation",
+			"suformated",
+			[
+				0,
+				0,
+				33
+			]
+		],
+		[
+			"mysteriously",
+			"suformated",
+			[
+				0,
+				0,
+				33
+			]
+		],
+		[
+			"laughing",
+			"suformated",
+			[
+				0,
+				0,
+				33
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "idk"
+}

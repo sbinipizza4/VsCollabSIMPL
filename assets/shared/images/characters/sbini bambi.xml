@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sbini bambi.png">
+<SubTexture name="sbini bambi idle0000" x="0" y="0" width="742" height="799" frameX="-6" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi idle0001" x="2111" y="0" width="747" height="772" frameX="-4" frameY="-28" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi idle0002" x="695" y="1589" width="781" height="752" frameX="-2" frameY="-48" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi idle0003" x="2111" y="0" width="747" height="772" frameX="-4" frameY="-28" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi idle0004" x="0" y="0" width="742" height="799" frameX="-6" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi right0000" x="1429" y="0" width="682" height="794" frameX="-79" frameY="-6" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi right0001" x="711" y="799" width="636" height="788" frameX="-127" frameY="-12" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi left0000" x="1347" y="799" width="680" height="779" frameX="-68" frameY="-21" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi left0001" x="2111" y="772" width="690" height="765" frameX="-19" frameY="-35" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi down0000" x="0" y="1589" width="695" height="753" frameX="-3" frameY="-47" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi down0001" x="1476" y="1589" width="670" height="711" frameX="-12" frameY="-89" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi up0000" x="0" y="799" width="711" height="790" frameX="-26" frameY="-9" frameWidth="800" frameHeight="800" />
+<SubTexture name="sbini bambi up0001" x="742" y="0" width="687" height="799" frameX="-32" frameY="-1" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

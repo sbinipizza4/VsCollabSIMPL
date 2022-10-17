@@ -1,0 +1,618 @@
+{
+	"song": {
+		"events": [
+			[
+				8880,
+				[
+					[
+						"Change Character",
+						"gf",
+						"bfgf"
+					]
+				]
+			],
+			[
+				8940,
+				[
+					[
+						"Change Character",
+						"bf",
+						"savanabit"
+					]
+				]
+			],
+			[
+				13380,
+				[
+					[
+						"Change Character",
+						"bf",
+						"PlayableGFV2"
+					]
+				]
+			],
+			[
+				13440,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savbf"
+					]
+				]
+			],
+			[
+				17820,
+				[
+					[
+						"Change Character",
+						"bf",
+						"savanabit"
+					]
+				]
+			],
+			[
+				17880,
+				[
+					[
+						"Change Character",
+						"gf",
+						"bfgf"
+					]
+				]
+			],
+			[
+				25620,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savbf"
+					]
+				]
+			],
+			[
+				25680,
+				[
+					[
+						"Change Character",
+						"bf",
+						"PlayableGFV2"
+					]
+				]
+			],
+			[
+				26700,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				26760,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savgf"
+					]
+				]
+			],
+			[
+				31260,
+				[
+					[
+						"Change Character",
+						"bf",
+						"savanabit"
+					]
+				]
+			],
+			[
+				31320,
+				[
+					[
+						"Change Character",
+						"gf",
+						"bfgf"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"PlayableGFV2"
+					]
+				]
+			],
+			[
+				36060,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savbf"
+					]
+				]
+			],
+			[
+				40740,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savgf"
+					]
+				]
+			],
+			[
+				45480,
+				[
+					[
+						"Change Character",
+						"bf",
+						"PlayableGFV2"
+					]
+				]
+			],
+			[
+				45540,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savbf"
+					]
+				]
+			],
+			[
+				57000,
+				[
+					[
+						"Flash",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				59280,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				59340,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savgf"
+					]
+				]
+			],
+			[
+				63960,
+				[
+					[
+						"Change Character",
+						"bf",
+						"savanabit"
+					]
+				]
+			],
+			[
+				64020,
+				[
+					[
+						"Change Character",
+						"gf",
+						"bfgf"
+					]
+				]
+			],
+			[
+				68700,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				68760,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savgf"
+					]
+				]
+			],
+			[
+				77580,
+				[
+					[
+						"Change Character",
+						"bf",
+						"PlayableGFV2"
+					]
+				]
+			],
+			[
+				77640,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savbf"
+					]
+				]
+			],
+			[
+				79620,
+				[
+					[
+						"Change Character",
+						"bf",
+						"savanabit"
+					]
+				]
+			],
+			[
+				79680,
+				[
+					[
+						"Change Character",
+						"gf",
+						"bfgf"
+					]
+				]
+			],
+			[
+				82920,
+				[
+					[
+						"Flash Image",
+						"black",
+						"2"
+					]
+				]
+			],
+			[
+				85200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				85260,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savgf"
+					]
+				]
+			],
+			[
+				88500,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				88560,
+				[
+					[
+						"Change Character",
+						"dad",
+						"suformatomg"
+					]
+				]
+			],
+			[
+				88800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"suformathing"
+					]
+				],
+				null,
+				"Hurt Note"
+			],
+			[
+				89520,
+				[
+					[
+						"Change Character",
+						"bf",
+						"PlayableGFV2"
+					]
+				]
+			],
+			[
+				89580,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savbf"
+					]
+				]
+			],
+			[
+				92040,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				92220,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				92580,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				92760,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				92940,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				93060,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				93180,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				93360,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				93480,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				93600,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				93660,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				93720,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				93900,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				94020,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				94200,
+				[
+					[
+						"Flash Image",
+						"black",
+						"1"
+					]
+				]
+			],
+			[
+				98640,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savbf"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"savanabit"
+					]
+				]
+			],
+			[
+				103260,
+				[
+					[
+						"Change Character",
+						"gf",
+						"bfgf"
+					]
+				]
+			],
+			[
+				107460,
+				[
+					[
+						"Change Character",
+						"gf",
+						"savgf"
+					]
+				]
+			],
+			[
+				107520,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				117240,
+				[
+					[
+						"Change Character",
+						"bf",
+						"nothing"
+					]
+				]
+			],
+			[
+				117300,
+				[
+					[
+						"Change Character",
+						"gf",
+						"nothing"
+					]
+				]
+			],
+			[
+				117360,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nothing"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"MoveWindow",
+						"128",
+						"700"
+					]
+				]
+			]
+		]
+	}
+}

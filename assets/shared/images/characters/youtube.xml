@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="youtube.png">
+<SubTexture name="youtube idle0000" x="3002" y="0" width="782" height="546" frameX="-9" frameY="-127" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube down0000" x="3002" y="1092" width="744" height="519" frameX="-25" frameY="-260" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube down0001" x="3002" y="1611" width="744" height="516" frameX="-26" frameY="-284" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube left0000" x="0" y="711" width="772" height="670" frameX="0" frameY="-66" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube left0001" x="737" y="0" width="748" height="694" frameX="0" frameY="-53" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube up0000" x="1485" y="0" width="729" height="658" frameX="-39" frameY="-53" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube up0001" x="0" y="0" width="737" height="711" frameX="-46" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube right0000" x="2214" y="1170" width="752" height="576" frameX="-41" frameY="-91" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube right0001" x="0" y="1381" width="741" height="611" frameX="-59" frameY="-73" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube hahaha0000" x="3002" y="546" width="782" height="546" frameX="-9" frameY="-127" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube hahaha0001" x="1580" y="1992" width="782" height="557" frameX="-9" frameY="-116" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube hahaha0002" x="2214" y="587" width="782" height="583" frameX="-9" frameY="-90" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube hahaha0003" x="741" y="1381" width="782" height="607" frameX="-9" frameY="-66" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube lol0000" x="2214" y="0" width="788" height="587" frameX="-9" frameY="-108" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube lol0001" x="0" y="1992" width="789" height="587" frameX="-9" frameY="-107" frameWidth="800" frameHeight="800" />
+<SubTexture name="youtube lol0002" x="789" y="1992" width="791" height="587" frameX="-9" frameY="-106" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

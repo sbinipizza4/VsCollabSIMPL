@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sbiniomg.png">
+<SubTexture name="sbiniomg idle0000" x="0" y="0" width="400" height="721" frameX="-21" frameY="-1" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg down0000" x="359" y="721" width="283" height="683" frameX="-83" frameY="-39" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg down0001" x="1360" y="721" width="281" height="664" frameX="-83" frameY="-58" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg down0002" x="1777" y="0" width="285" height="648" frameX="-83" frameY="-74" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg up0000" x="400" y="0" width="459" height="719" frameX="-11" frameY="-3" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg up0001" x="859" y="0" width="459" height="714" frameX="-11" frameY="-3" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg up0002" x="1318" y="0" width="459" height="706" frameX="-11" frameY="0" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg left0000" x="0" y="721" width="359" height="694" frameX="0" frameY="-28" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg left0001" x="642" y="721" width="359" height="683" frameX="0" frameY="-39" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg left0002" x="1001" y="721" width="359" height="665" frameX="0" frameY="-57" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg right0000" x="0" y="1415" width="470" height="645" frameX="0" frameY="-78" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg right0001" x="470" y="1415" width="459" height="643" frameX="-1" frameY="-87" frameWidth="470" frameHeight="730" />
+<SubTexture name="sbiniomg right0002" x="929" y="1415" width="455" height="630" frameX="0" frameY="-100" frameWidth="470" frameHeight="730" />
+</TextureAtlas>

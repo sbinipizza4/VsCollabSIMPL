@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "twikerplayz idle"
+		},
+		{
+			"offsets": [
+				48,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "twikerplayz up"
+		},
+		{
+			"offsets": [
+				58,
+				-100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "twikerplayz down"
+		},
+		{
+			"offsets": [
+				83,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "twikerplayz left"
+		},
+		{
+			"offsets": [
+				-23,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "twikerplayz right"
+		},
+		{
+			"offsets": [
+				-12,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "TANKMAN UGH"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				14
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "PRETTY GOOD tankman0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-10
+			],
+			"anim": "pganim",
+			"fps": 24,
+			"name": "PRETTY GOOD tankman short",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/twikerplayz",
+	"position": [
+		0,
+		240
+	],
+	"healthicon": "twiker",
+	"flip_x": true,
+	"healthbar_colors": [
+		225,
+		225,
+		225
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

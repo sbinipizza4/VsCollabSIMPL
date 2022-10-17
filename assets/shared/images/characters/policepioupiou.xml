@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="policepioupiou.png">
+<SubTexture name="policepioupiou idle0000" x="1846" y="701" width="923" height="700" frameX="-29" frameY="-17" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou idle0001" x="2769" y="689" width="923" height="678" frameX="-29" frameY="-42" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou idle0002" x="2769" y="1367" width="923" height="636" frameX="-30" frameY="-84" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou idle0003" x="1846" y="2797" width="922" height="576" frameX="-33" frameY="-144" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou idle0004" x="2769" y="1367" width="923" height="636" frameX="-30" frameY="-84" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou idle0005" x="2769" y="689" width="923" height="678" frameX="-29" frameY="-42" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou idle0006" x="1846" y="701" width="923" height="700" frameX="-29" frameY="-17" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou right0000" x="1846" y="0" width="923" height="701" frameX="-29" frameY="-16" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou right0001" x="2769" y="0" width="923" height="689" frameX="-29" frameY="-28" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou down0000" x="923" y="2797" width="923" height="578" frameX="-29" frameY="-142" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou down0001" x="2768" y="2797" width="923" height="527" frameX="-29" frameY="-193" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou left0000" x="1854" y="2121" width="923" height="609" frameX="-29" frameY="-108" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou left0001" x="931" y="2121" width="923" height="613" frameX="-29" frameY="-104" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou up0000" x="923" y="1422" width="923" height="693" frameX="-29" frameY="-24" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou up0001" x="0" y="0" width="923" height="712" frameX="-29" frameY="-5" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou shoot0000" x="923" y="712" width="923" height="708" frameX="-29" frameY="-9" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou shoot0001" x="0" y="1422" width="923" height="699" frameX="-29" frameY="-18" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou shoot0002" x="1846" y="1422" width="923" height="691" frameX="-29" frameY="-26" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou shoot0003" x="0" y="712" width="923" height="710" frameX="-29" frameY="-7" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou shoot0004" x="923" y="0" width="923" height="712" frameX="-29" frameY="-5" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou shoot0005" x="0" y="2121" width="931" height="676" frameX="-29" frameY="-41" frameWidth="960" frameHeight="720" />
+<SubTexture name="policepioupiou shoot0006" x="0" y="2797" width="923" height="605" frameX="-29" frameY="-112" frameWidth="960" frameHeight="720" />
+</TextureAtlas>

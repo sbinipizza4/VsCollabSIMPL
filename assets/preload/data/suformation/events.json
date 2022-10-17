@@ -1,0 +1,16 @@
+{
+	"song": {
+		"events": [
+			[
+				24000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"suformatomg"
+					]
+				]
+			]
+		]
+	}
+}

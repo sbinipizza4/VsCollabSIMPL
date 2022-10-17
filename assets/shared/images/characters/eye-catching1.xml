@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eye-catching1.png">
+<SubTexture name="eye-catching1 idle0000" x="1845" y="800" width="936" height="797" frameX="-77" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 idle0001" x="0" y="3194" width="947" height="777" frameX="-75" frameY="-18" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 idle0002" x="935" y="800" width="910" height="757" frameX="-100" frameY="-40" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 idle0003" x="0" y="3194" width="947" height="777" frameX="-75" frameY="-18" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 idle0004" x="1845" y="800" width="936" height="797" frameX="-77" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sav right0000" x="2814" y="797" width="886" height="795" frameX="-127" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sav right0001" x="0" y="0" width="908" height="800" frameX="-105" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sav down0000" x="908" y="0" width="937" height="800" frameX="-76" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sav down0001" x="0" y="800" width="935" height="800" frameX="-78" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sav left0000" x="955" y="2397" width="957" height="796" frameX="-56" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sav left0001" x="1845" y="0" width="969" height="800" frameX="-44" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sav up0000" x="0" y="1600" width="958" height="797" frameX="-55" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eyecatching1 sav up0001" x="958" y="1600" width="949" height="797" frameX="-64" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sbini down0000" x="1912" y="2397" width="989" height="794" frameX="-77" frameY="-6" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sbini down0001" x="3767" y="0" width="986" height="794" frameX="-77" frameY="-6" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sbini right0000" x="3767" y="1588" width="937" height="791" frameX="-77" frameY="-6" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sbini right0001" x="3767" y="794" width="968" height="794" frameX="-77" frameY="-6" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sbini left0000" x="3767" y="2379" width="929" height="791" frameX="-77" frameY="-6" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sbini left0001" x="2814" y="1592" width="947" height="791" frameX="-77" frameY="-6" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sbini up0000" x="2814" y="0" width="953" height="797" frameX="-77" frameY="0" frameWidth="1066" frameHeight="800" />
+<SubTexture name="eye-catching1 sbini up0001" x="0" y="2397" width="955" height="797" frameX="-77" frameY="0" frameWidth="1066" frameHeight="800" />
+</TextureAtlas>

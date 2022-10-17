@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sbini",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WHAT"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sbini",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "DID YOU JUST BEAT ME"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah idiot"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sbini",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmm spam time i guess"
+		}
+	]
+}

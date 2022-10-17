@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="iroxxp.png">
+<SubTexture name="iroxxp idle0000" x="0" y="0" width="662" height="773" frameX="-70" frameY="-18" frameWidth="800" frameHeight="800" />
+<SubTexture name="iroxxp up0000" x="662" y="0" width="662" height="773" frameX="-70" frameY="-18" frameWidth="800" frameHeight="800" />
+<SubTexture name="iroxxp up0001" x="1324" y="0" width="662" height="773" frameX="-70" frameY="-18" frameWidth="800" frameHeight="800" />
+<SubTexture name="iroxxp right0000" x="0" y="773" width="662" height="773" frameX="-70" frameY="-18" frameWidth="800" frameHeight="800" />
+<SubTexture name="iroxxp right0001" x="662" y="773" width="662" height="773" frameX="-70" frameY="-18" frameWidth="800" frameHeight="800" />
+<SubTexture name="iroxxp down0000" x="1324" y="773" width="662" height="773" frameX="-70" frameY="-18" frameWidth="800" frameHeight="800" />
+<SubTexture name="iroxxp down0001" x="1986" y="0" width="662" height="773" frameX="-70" frameY="-18" frameWidth="800" frameHeight="800" />
+<SubTexture name="iroxxp left0000" x="1986" y="773" width="662" height="773" frameX="-70" frameY="-18" frameWidth="800" frameHeight="800" />
+<SubTexture name="iroxxp left0001" x="0" y="1546" width="662" height="773" frameX="-70" frameY="-18" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfgf.png">
+<SubTexture name="bfgf idle0000" x="0" y="0" width="705" height="702" frameX="-10" frameY="-258" frameWidth="720" frameHeight="960" />
+</TextureAtlas>

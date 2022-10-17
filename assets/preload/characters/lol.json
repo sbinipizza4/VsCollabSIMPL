@@ -1,0 +1,51 @@
+{
+	"animations": [
+
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "what",
+			"indices": [],
+			"name": "what"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+
+	"no_antialiasing": false,
+	"image": "characters/lol",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "savanabit",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		155,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

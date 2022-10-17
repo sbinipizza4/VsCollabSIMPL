@@ -1,0 +1,32 @@
+{
+	"storyName": "discord",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "discord",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"bangaler",
+			"cmb",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "discord"
+}
